@@ -1,0 +1,9 @@
+{
+	"name": "MangaraoDevops",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4d8dfb92-5eb8-4add-92b4-bd7de47a2396",
+		"tenantId": "342cadd9-a4ec-41a5-a79a-95b05c71b120"
+	}
+}
